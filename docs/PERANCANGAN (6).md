@@ -1,4 +1,4 @@
-# PERANCANGAN.md — CMS Website Profil SMAK Stella Maris
+# CMS Website Profil SMAK Stella Maris
 
 **Proyek:** CMS Website Profil SMAK Stella Maris  
 **Topik:** 09 – CMS Company Profile / Website Profil Sekolah  
