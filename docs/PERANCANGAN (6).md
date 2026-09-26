@@ -585,7 +585,7 @@ Halaman untuk membaca berita sekolah secara lengkap.
 ### 6.6 Link Project Figma
 
 **Link Figma:**  
-`[Masukkan link publik Figma di sini setelah project selesai]`
+https://stitch.withgoogle.com/projects/8245062958923152713?pli=1
 
 ### 6.7 Screenshot / Embed Figma
 
